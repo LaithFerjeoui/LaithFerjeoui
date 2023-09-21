@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameztaher" alt="rameztaher" /></a> </p>
 
 
-- 🌱 I’m currently learning **VueJS and Laravel**
+- 🌱 I’m currently learning **VueJS and Firebase**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/laith-ferjeoui-22507226a/](https://www.linkedin.com/in/laith-ferjeoui-22507226a/)
 
