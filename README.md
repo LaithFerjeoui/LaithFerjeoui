@@ -37,6 +37,10 @@
  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
 </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+
 
  <a href="https://www.vegascreativesoftware.com/" target="_blank" rel="noreferrer">
   <img src="https://example.com/sony-vegas-icon.png" alt="Sony Vegas" width="40" height="40"/>
